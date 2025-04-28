@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Nomi-CEu/Branding/refs/heads/main/Nomi%20CEu/Logo/256x/logo-normal.png" alt="Logo"></p>
+<p align="center"><img src="https://i.imgur.com/grkzH9y.png" alt="Logo"></p>
 <h1 align="center">Nomifactory CEu</h1>
 <p align="center"><b><i>Fork of <a href="https://github.com/Nomifactory/Nomifactory"> Nomifactory</a>, using <a href="https://github.com/GregTechCEu/GregTech"> GregTech CEu</a> and its related mods.</i></b></p>
 <h1 align="center">
