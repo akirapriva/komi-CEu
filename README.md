@@ -2,13 +2,13 @@
 <h1 align="center">Komifactory CEu</h1>
 <p align="center"><b><i>Fork of <a href="https://github.com/Nomi-CEu/Nomi-CEu"> Nomifactory CEu</a> with more tweaks and a bit of reimagination.</i></b></p>
 <h1 align="center">
-    <a href="https://github.com/Nomi-CEu/Nomi-CEu/"><img src="https://img.shields.io/github/stars/Nomi-CEu/Nomi-CEu?style=for-the-badge&logo=github&logoColor=white" alt="Stars"></a>
-    <a href="https://nightly.link/Nomi-CEu/Nomi-CEu/workflows/testbuildpack/main"><img src="https://img.shields.io/github/last-commit/Nomi-CEu/Nomi-CEu/main?style=for-the-badge&logo=githubactions&logoColor=white&label=Nightly%20Builds&color=%238a67ab" alt="Builds"></a>
+    <a href="https://github.com/akirapriva/komi-CEu/"><img src="https://img.shields.io/github/stars/Nomi-CEu/Nomi-CEu?style=for-the-badge&logo=github&logoColor=white" alt="Stars"></a>
+    <a href="https://nightly.link/komi-CEu/komi-CEu/workflows/testbuildpack/main"><img src="https://img.shields.io/github/last-commit/Nomi-CEu/Nomi-CEu/main?style=for-the-badge&logo=githubactions&logoColor=white&label=Nightly%20Builds&color=%238a67ab" alt="Builds"></a>
     <a href="https://discord.com/invite/zwQzqP8b6q"><img src="https://img.shields.io/discord/927050775073534012?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=discord%20&labelColor=gray&color=%235865F2" alt="Discord"></a>
     <br>
-    <a href="https://www.curseforge.com/minecraft/modpacks/nomi-ceu"><img src="https://cf.way2muchnoise.eu/nomi-ceu.svg?badge_style=for_the_badge" alt="CurseForge"></a>
-    <a href="https://www.curseforge.com/minecraft/modpacks/nomi-ceu"><img src="https://cf.way2muchnoise.eu/versions/For%20MC_nomi-ceu_all.svg?badge_style=for_the_badge" alt="MC Versions"></a>
-    <a href="https://github.com/Nomi-CEu/Nomi-CEu/releases"><img src="https://img.shields.io/github/downloads/Nomi-CEu/Nomi-CEu/total?sort=semver&logo=github&label=&style=for-the-badge&color=2d2d2d&labelColor=545454&logoColor=FFFFFF" alt="GitHub"></a>
+    <a href="https://www.curseforge.com/minecraft/modpacks/komi-ceu"><img src="https://cf.way2muchnoise.eu/nomi-ceu.svg?badge_style=for_the_badge" alt="CurseForge"></a>
+    <a href="https://www.curseforge.com/minecraft/modpacks/komi-ceu"><img src="https://cf.way2muchnoise.eu/versions/For%20MC_nomi-ceu_all.svg?badge_style=for_the_badge" alt="MC Versions"></a>
+    <a href="https://github.com/akirapriva/komi-CEu/releases"><img src="https://img.shields.io/github/downloads/Nomi-CEu/Nomi-CEu/total?sort=semver&logo=github&label=&style=for-the-badge&color=2d2d2d&labelColor=545454&logoColor=FFFFFF" alt="GitHub"></a>
 </h1>
 
 ## Features:
