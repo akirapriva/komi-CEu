@@ -24,62 +24,25 @@
 - Many QoL features - Wiremill can produce any wire, Creative Tank no longer uses fluids, new creative chests and tanks from CEu, etc.
 - And more...
 
-## Translations
-Translations are offered for Nomi-CEu, in a separate 'language pack'. This is available to download [here](https://nightly.link/Nomi-CEu/Nomi-CEu-Translations/workflows/pushbuildpack/main?preview) (download the 'nomi-ceu' zip for Nomi-CEu).
-
-For more information, including supported languages and their status, see [the GitHub Page](https://github.com/Nomi-CEu/Nomi-CEu-Translations/).
-
-## Installing, Updating and Customizing Information
-Player Information, including recommended ways to install the pack, is on our [wiki](https://github.com/Nomi-CEu/Nomi-CEu/wiki).
-
-## Server Setup and Information
-Details on how to setup a basic server, some important server admin information, and how to update servers, is on our [wiki](https://github.com/Nomi-CEu/Nomi-CEu/wiki/Page-1:-Player-Information#section-3-server-installation-and-updating).
-
-## Contributing and Maintainer Information
-This is available on our [wiki](https://github.com/Nomi-CEu/Nomi-CEu/wiki/Part-2:-Contributing-Information).
-
 ## Addon Mods
-Nomi-CEu comes with addon scripts for the following mods. You can drop them into the mods folder, and their recipes will be adjusted accordingly.
+komi-CEu comes with addon scripts for the following mods. You can drop them into the mods folder, and their recipes will be adjusted accordingly.
 
 - [AE2 Fluid Crafting Rework](https://www.curseforge.com/minecraft/mc-mods/ae2-fluid-crafting-rework)
 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines)
 - [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
 - [Lazy AE2](https://www.curseforge.com/minecraft/mc-mods/lazy-ae2)
 - [Project Red - Illumination](https://www.curseforge.com/minecraft/mc-mods/project-red-illumination)
-- [ZBGT](https://www.curseforge.com/minecraft/mc-mods/zbgt)
 
 \* Note: If you are adding these mods via the CurseForge app, remove the extra copy of AE2 **(*non*-extended life)**, of which it might automatically download.
-
-## Expert Mode
-If you want a harder, or perhaps a more "true" GregTech experience, check out the Expert mode. This pack mode is based on the [Self-Torture Edition Fork](https://github.com/NotMyWing/Omnifactory-Self-Torture-Edition) of the original pack.
 
 ### Highlights include:
 - Forced Peaceful Mode
 - No DME for easy infinite resources
-- Nomicoins can't be spent, or obtained
 - The Steam Age
 - More Focus on GT Power Generation
 - No Creative Tank; instead...
     - Stabilized Micro Miners for late-game infinite resources
 - Harder recipes for assorted things like Iridium, Graphene, Numismatic Dynamos, and more
-
-### Installation Instructions:
-
-#### Script Installation Instructions:
-
-<hr>
-
-##### Windows:
- 1. **(CurseForge Downloads Only)** Download the script [here](https://raw.githubusercontent.com/Nomi-CEu/Nomi-CEu/main/pack-mode-switcher.bat), and save it to the root directory of the pack (the same level as `\config`).
- 2. Run the pack mode switcher in a terminal with `./pack-mode-switcher.bat`
-
-##### Mac/GNU/Linux:
- 1. **(CurseForge Downloads Only)** Run `curl -O https://raw.githubusercontent.com/Nomi-CEu/Nomi-CEu/main/pack-mode-switcher.sh` to download the script, or download it [here](https://raw.githubusercontent.com/Nomi-CEu/Nomi-CEu/main/pack-mode-switcher.sh).
- 2. Run `chmod +x pack-mode-switcher.sh; sh pack-mode-switcher.sh` in the pack root directory (the one containing `/config`).
-
-<hr>
-
-#### Manual installation instructions are available [here](https://github.com/Nomi-CEu/Nomi-CEu/blob/main/overrides/README.md).
 
 ## Credits
 Nomifactory by [Exaxxion](https://github.com/Exaxxion).  
